@@ -1,0 +1,48 @@
+[
+  {
+    "titulo": "Qual o nome da ferramenta de inteligência artificial que dominou as páginas de jornais em 2022?",
+    "alternativas": [
+      {
+        "titulo": "A",
+        "texto": "Google",
+        "correta": false
+      },
+      {
+        "titulo": "B",
+        "texto": "Chat-GPT",
+        "correta": true
+      },
+      {
+        "titulo": "C",
+        "texto": "Instagram",
+        "correta": false
+      }
+    ]
+  },
+  {
+    "titulo": "Em qual área se aplica a NR10",
+    "alternativas": [
+      {
+        "titulo": "A",
+        "texto": "Instalações elétricas e Serviços com eletricidade",
+        "correta": true
+      },
+      {
+        "titulo": "B",
+        "texto": "Construção civil",
+        "correta": false
+      },
+      {
+        "titulo": "C",
+        "texto": "Trabalho em altura",
+        "correta": false
+      }
+      ,
+      {
+        "titulo": "D",
+        "texto": "Trabalho acadêmicos",
+        "correta": false
+      }
+    ]
+  }
+]
